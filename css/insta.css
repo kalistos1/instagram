@@ -1,0 +1,28 @@
+body,html,*{
+    margin: 0;
+    padding: 0;
+}
+.right-side{
+    width: 30%;
+    height: 550px;
+    border: 1px solid blanchedalmond;
+}
+.holder{
+    display: flex;
+}
+.bokilo >.gith{
+    font-size: 10px;
+}
+.go{
+    display: inline-block;
+    flex-wrap
+}
+img{
+    height: 30px;
+    width: 100px;
+    margin: 10px;
+}
+
+.hhs >.hg>h6{
+    font-size: 10px;
+}
