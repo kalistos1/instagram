@@ -1,0 +1,15 @@
+
+.bg-secondary{
+    border: 2px solid red;
+  
+}
+.bg-primary{
+    border: 2px solid black;
+}
+.hi{
+    background-color: white;
+    height: 100px;
+}
+.small{
+    border: 10px solid blue;
+}
