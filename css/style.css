@@ -1,0 +1,78 @@
+.section-title{
+    border: 1px;
+    border-color: rgb(186, 190, 190);
+    border-style: solid;
+    height: 3em;
+    
+}
+.section-title img {
+    margin: 5px;
+    padding-left: 10em  ;
+}
+/*
+.reset-section{
+    padding-top: ;
+    background-color: white;
+    border: 1px;
+    border-color: rgb(186, 190, 190);
+    border-style: solid;
+    padding-left: 20%;
+
+      
+     
+}
+
+.reset-section  img, h6{
+    margin-left: 70px;
+
+}
+
+.section-quote {
+    color: rgb(186, 190, 190);
+    
+}
+
+.form-group input, button {
+    width: 80%;
+    border-style: solid;
+    border-radius: 5px;
+
+}
+
+.butt {
+    background-color: skyblue;
+    
+}
+.or{
+    
+    margin-left: 150px;
+    padding-top: 20px;
+    
+}
+
+.create-link{
+    margin-left: 25px;
+    padding-top: 20px;
+    color: ;
+  
+}
+
+.create-link h6{
+    color: black;
+    font-weight: 600;
+}
+
+.con-footer{ 
+    padding-left: 40px;
+}
+*/
+.reset-section {
+    border: dimgray;
+    border-style: solid;
+    width: 40%;
+    height: 300px;
+    margin: 200px;
+}
+
+
+
